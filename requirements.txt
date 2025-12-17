@@ -1,0 +1,11 @@
+Flask
+gunicorn
+
+torch
+transformers
+numpy
+pandas
+scikit-learn
+
+SpeechRecognition
+pydub
